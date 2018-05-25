@@ -1,0 +1,9 @@
+C:\Users\irem ünver\Desktop\veriYapıları\veriYapıları\bin\Debug\veriYapıları.exe.config
+C:\Users\irem ünver\Desktop\veriYapıları\veriYapıları\obj\Debug\veriYapıları.csprojResolveAssemblyReference.cache
+C:\Users\irem ünver\Desktop\veriYapıları\veriYapıları\obj\Debug\veriYapıları.Form1.resources
+C:\Users\irem ünver\Desktop\veriYapıları\veriYapıları\obj\Debug\veriYapıları.Properties.Resources.resources
+C:\Users\irem ünver\Desktop\veriYapıları\veriYapıları\obj\Debug\veriYapıları.csproj.GenerateResource.Cache
+C:\Users\irem ünver\Desktop\veriYapıları\veriYapıları\bin\Debug\veriYapıları.exe
+C:\Users\irem ünver\Desktop\veriYapıları\veriYapıları\bin\Debug\veriYapıları.pdb
+C:\Users\irem ünver\Desktop\veriYapıları\veriYapıları\obj\Debug\veriYapıları.exe
+C:\Users\irem ünver\Desktop\veriYapıları\veriYapıları\obj\Debug\veriYapıları.pdb
